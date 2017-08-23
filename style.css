@@ -3,8 +3,14 @@ body {
 }
 
 .square {
-  background-color: pink;
-  width: 100px;
-  height: 100px;
-  outline: solid 1px black;
+  width: 30%;
+  background: pink;
+  padding-bottom:30%;
+  float: left;
+  margin: 1.66%;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 600px;
 }
